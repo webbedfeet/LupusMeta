@@ -1,0 +1,6 @@
+  library(gdata)
+  if(R.version$os=='mingw32') library(RODBC) else library(openxlsx)
+  library(plyr)
+  library(dplyr)
+  library(reshape2)
+  library(stringr)
