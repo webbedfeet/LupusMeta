@@ -10,6 +10,7 @@ Tektonidou, M. G., Dasgupta, A. and Ward, M. M. (2016), Risk of End-Stage Renal 
 
 A BibTeX citation of this work is below:
 
+```bibtex
 @article {ART:ART39594,
 author = {Tektonidou, Maria G. and Dasgupta, Abhijit and Ward, Michael M.},
 title = {Risk of End-Stage Renal Disease in Patients With Lupus Nephritis, 1971–2015: A Systematic Review and Bayesian Meta-Analysis},
@@ -22,6 +23,7 @@ doi = {10.1002/art.39594},
 pages = {1432--1441},
 year = {2016},
 }
+```
 
 ---
 
@@ -36,4 +38,3 @@ This work is a United States Government Work. Anyone may use the software on a w
 In any work produced using or in any product derived from this material, the authors would appreciate being
  acknowledged per scientific custom as the source of the software.
  
----
