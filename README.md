@@ -6,7 +6,7 @@ patients.
 
 This work has been published, and should be cited as:
 
-Tektonidou, M. G., Dasgupta, A. and Ward, M. M. (2016), Risk of End-Stage Renal Disease in Patients With Lupus Nephritis, 1971–2015: A Systematic Review and Bayesian Meta-Analysis. Arthritis & Rheumatology, 68: 1432–1441. [doi:10.1002/art.39594](doi:10.1002/art.39594)
+Tektonidou, M. G., Dasgupta, A. and Ward, M. M. (2016), Risk of End-Stage Renal Disease in Patients With Lupus Nephritis, 1971–2015: A Systematic Review and Bayesian Meta-Analysis. Arthritis & Rheumatology, 68: 1432–1441. [doi:10.1002/art.39594](http://dx.doi.org/10.1002/art.39594)
 
 A BibTeX citation of this work is below:
 
